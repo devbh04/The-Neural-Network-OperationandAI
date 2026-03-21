@@ -89,7 +89,7 @@ export default function LandingPage() {
             </span>
           </Link>
         </div>
-        <div className="flex items-center gap-4">
+        <div className="hidden md:flex items-center gap-4">
           <div className="flex gap-2">
             <button className="p-2 text-[#00FF41] hover:bg-[#00FF41]/10 transition-all active:scale-95 cursor-crosshair rounded">
               <span className="material-symbols-outlined">terminal</span>
